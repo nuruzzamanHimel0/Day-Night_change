@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1501714452 source:f:\himel\diu\11th semester\cg\lab work\testcode\asd\main.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1501714452 source:f:\himel\diu\11th semester\cg\lab work\project\asd\main.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1501714452 source:f:\himel\diu\11th semester\cg\lab work\project\daynight\main.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1501761254 source:d:\diu\11th semester\cg\lab work\completed\daynight\main.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
+1501761254 source:d:\programming world\php and web\my work for git\my work\computer graphics project\computer graphics project\project\daynight\main.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+
